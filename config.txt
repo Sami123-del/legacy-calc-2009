@@ -1,0 +1,2 @@
+# default interest rate in percent
+default_interest_rate=6.75
